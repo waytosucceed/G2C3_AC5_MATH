@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Mickey and his friends spotted fish swimming in the lake. Skip count by 10s to find out how many fishes they saw in total.<br><img width='65%' src='./images/39.jpg'/>",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "20"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "As Mickey and Squeaky explored the lake, they noticed ducks swimming together. Skip count by 10s to find out how many ducks they saw.<br><img width='65%' src='./images/40.jpg'/>",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "They saw 10 boats tied along the dock. Skip count by 10s to find out how many boats they passed after seeing 5 groups.<br><img width='65%' src='./images/41.jpg'/>",
+    "options": [
+      "40",
+      "60",
+      "30",
+      "50"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Squeaky the squirrel spotted lily flowers in a section of the lake. Skip count by 10s to find how many lily flowers were there in total.<br><img width='65%' src='./images/42.jpg'/>",
+    "options": [
+      "50",
+      "40",
+      "60",
+      "70"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "They spotted birds flying over the water. Skip count by 10s to find how many birds they saw in total.<br><img width='65%' src='./images/43.jpg'/>",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "correct": 3
+  }
+]
